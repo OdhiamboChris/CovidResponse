@@ -1,0 +1,605 @@
+Health Facility Name	MFL CODE	Ownership	Lat	Lon
+Coast General Teaching and Referal Hospital	11289	Public	-4.048814551	39.67419324
+Port Reitz  Hospital	11740	Public	-4.038707675	39.60304858
+Tudor Sub County Hospital	11861	Public	-4.040490465	39.66430373
+Likoni Sub County Hospital	11522	Public	-4.084807765	39.6554777
+Aga Khan Hospital Mombasa	11203	Private	-4.069867566	39.67047076
+Mombasa Hospital	11643	Private	-4.064509643	39.68042627
+Pandya Memorial Hospital	11734	Private	-4.068084752	39.67127391
+Jocham Hospital	11434	Private	-4.037084251	39.68154746
+Premiere Hospital	24022	Private	-4.034972072	39.70847537
+Msambweni CRH	11655	Public	-4.479460531	39.48035704
+Kwale Sub County Hospital	11507	Public	-4.174965091	39.45533627
+Kinango Sub County Hospital	11480	Public	-4.139128189	39.31278333
+Lungalunga Sub County Hospital	11526	Public	-4.553892367	39.12000808
+Samburu Sub County Hospital	11768	Public	0.66452731	37.64976752
+Diani Beach Hospital	25357	Private	-4.278966927	39.59045547
+Kinondo Hospital	16547	Private	-4.353015555	39.53571164
+Kilifi county hospital	11474	Public	-3.627937281	39.85584347
+Malindi sub county hospital	11555	Public	-3.226090844	40.12495703
+Mariakani sub county hospital	11566	Public	-3.863086981	39.47200348
+Bamba sub county  hospital	11237	Public	-3.542421881	39.52530807
+Jibana sub county hospital	11432	Public	-3.828698181	39.68571064
+Tawfiq hospital	11843	Private	-3.220752577	40.11222533
+Meridian hospital	11381	Private	-3.217053656	40.11785529
+Star hospital	11829	Private	-3.214574182	40.11876581
+Afya hospital	21925	Private	-3.197010128	40.10569677
+Josmori hospital	25266	Private	-3.945175725	39.55882584
+Swiss hospital	19023	Private	-3.950791314	39.74554396
+Watamu hospital	11897	Private	-3.361899632	40.00163427
+Hola County Referral hospital	11411	Public	-1.497791821	40.029631
+Ngao Sub county hospital	11711	Public	-2.411664928	40.20170361
+Bura Sub County hospital	11264	Public	-1.063059038	39.95120719
+Lamu Refferal Hospital	11512	Public	-2.278485291	40.90667788
+Faza Sub County Hospital	11373	Public	-2.054798704	41.11287755
+Mpeketoni Sub County Hospital	11649	Public	-2.391286803	40.69718643
+Moi County Refferal Hospital	11641	Public	-3.389100686	38.55958358
+Mwatate Sub County Hospital	11695	Public	-3.507162596	38.3685488
+Wesu Sub County Hospital	11906	Public	-3.40884724	38.3420757
+Taveta Sub County Hospital	11840	Public	-3.392981437	37.67739376
+St Joseph Shelter of Hope	11817	FBO	-3.390541716	38.53889129
+River Jordan Medical Centre	22279	Private	-3.388135977	38.56173171
+Dadaab Sub-County Hospital	13316	Public	0.05825299328	40.30704927
+Balambala Sub-District Hospital	13298	Public	0.09389485408	39.10975516
+Ijara District Hospital - Masalani	13406	Public	-1.689794741	40.17006436
+Modogashe Sub-County Hospital	13411	Public	0.754986482	39.17473427
+Bura District Hospital	13339	Public	-1.096626453	39.94906824
+Hulugho Sub County Hospital	13365	Public	-1.054993053	41.07860428
+Iftin Sub-District Hospital	13369	Public	-0.466962549	39.64313198
+Garissa County Referral Hospital	13346	Public	-0.4487154291	39.6526044
+Ifo Hospital	13368	NGO	0.1075556998	40.31956223
+MSF Dagahaley Main Hospital	13318	NGO	0.09278364755	40.31910408
+Hagadera Hospital	13359	NGO	0.008388571063	40.37191864
+Medina Hospital	19037	Private	0.006982147651	40.36795508
+Eldas Sub County Hospital	13333	Public	2.48771716	39.5678317
+Tarbaj Sub County Hospital	13446	Public	2.207281091	40.11715401
+Wajir County Referral Hoaspital	13452	Public	1.747970204	40.06272784
+Bute Sub County Hospital	13314	Public	3.370903652	39.42514888
+Habaswein Sub County Hospital	13357	Public	1.026603542	39.509722
+Griftu Sub County Hospital	13352	Public	1.996811156	39.75508588
+Mnadera County Referral Hospital	13402	Public	3.941148849	41.86177387
+Mandera North Subcounty Hospital	13423	Public	3.935927893	41.8550411
+Mandera West Sub county Hospital	13445	Public	3.935999761	41.85505407
+Lafey sub county Hospital	13392	Public	3.153768024	41.18538424
+Mandera Central Sub County Hospital	13335	Public	2.807152121	40.9283904
+Banissa Sub county Hospital	16811	Public	3.90714166	40.37011376
+Kutulo Sub county Hospital	13388	Public	2.419152268	40.59691494
+Laisamis Sub county Referral Hospital(Marsabit	18856	Public	1.616613995	37.80743826
+Moyale Sub county Referral  Hospital	12544	Public	3.559654491	39.06119637
+Marsabit County Referral Hospital	12472	Public	2.331799678	37.99855134
+Kalacha Sub County Referral Hospital (Chalbi)	12142	Public	3.127583113	37.42386596
+Catholic Hospital Laisamis	16215	FBO	1.596368769	37.80607168
+Ismc Hospital	12066	Private	2.328510438	37.98765292
+Sololo Mission Hospital	12739	FBO	3.55538842	38.6417585
+Isiolo County Referral Hospital	12094	Public	0.3550921574	37.58644203
+Garbatulla Sub County Hospital	12029	Public	0.4120354132	38.56917055
+Merti Sub County Hospital	12514	Public	1.066005474	38.66518058
+Mikumbune Sub-District Hospital	12526	Public	-0.07707865403	37.62159437
+Muthara Sub-District Hospital	12591	Public	0.1509062735	37.73573042
+Cottolengo Mission Hospital	11977	FBO	-0.002867682804	37.7662232
+Nyambene District Hospital	12684	Public	0.2357817675	37.9459681
+Mikinduri Sub-District Hospial	12525	Public	0.1202476931	37.83790012
+Consolata Mission Hospital (Nkubu)	11976	FBO	-0.06977985401	37.66676146
+Githongo District Hospital	12041	Public	-0.002403440476	37.59127844
+Giaki Sub-District Hospital	12036	Public	0.03051234599	37.76473575
+Kanyakine District Hospital	12181	Public	-0.1285540678	37.6756271
+St Theresa Hospital (Kiirua)	12303	FBO	0.1263673168	37.567455
+Kinoro Sub-District Hospital	12325	Public	0.03046943065	37.76475721
+Mbeu Sub-District Hospital	12500	Public	0.05903945943	37.81662853
+Maua Methodist Hospital	12492	FBO	0.2306700448	37.94203994
+Mutuati Sub-County Hospital	12605	Public	0.3830755857	37.98084277
+St Ann Hospital	12743	FBO	-0.0381819828	37.66181073
+Timau Sub-County Hospital	12802	Public	0.09266205699	37.24815809
+St John of God Hospital Tigania	12799	FBO	0.1990947588	37.79144781
+Miathene District Hospital	16234	Public	0.1519631679	37.79009539
+Chuka county referral hospital	11973	public	-0.3299350601	37.65641481
+PCEA Chogoria hospital	12445	FBO	-0.2304127123	37.62808874
+Magutuni sub-county hospital	11970	Public	-0.2248872973	37.73635611
+Tharaka subcounty hospital	12795	public	-0.2233203938	37.73389671
+Komarock Mordern hospital	26971	Private	-1.260198791	36.91049168
+Gatunga hospital	18080	Public	-0.2964282407	37.94228927
+st Orsola Hospital	12769	FBO	-0.316241113	37.90019046
+Embu level 5 hospital	12004	Public	-0.5227124022	37.45311362
+Runyejes  level 4 hospital	12719	Public	-0.4067797109	37.56900739
+Mbeere level 4 hospital	16467	Public	-0.5765111449	37.6427008
+Ishiara level 4 hospital	16464	Public	-0.4553698992	37.78837673
+Embu childrens hospital tenri	12790	Private	-0.5377838025	37.45372281
+Consolata kyeni mission hospital	12413	FBO	-0.412698957	37.58741136
+Neema Hospital Ltd. Annex	24171	Private	-1.367449615	38.00451893
+The Kitui Family Care Hospital	24092	Private	-1.374963316	37.99519294
+Zombe Sub County Hospital	23030	Public	-1.443097119	38.24213017
+Katulani Sub County Hospital (Kitui)	16991	Public	-1.365265341	38.01151511
+Mutomo Sub County Hospital	12603	Public	-1.848757396	38.21050213
+Mutitu Sub County Hospital	12601	Public	-1.224857282	38.18866873
+Muthale Mission Hospital	12587	FBO	-1.192286407	38.00027843
+Migwani Sub County Hospital	12523	Public	-1.095645777	38.01891068
+Kitui County Referral Hospital	12366	Public	-1.370170612	38.01240021
+Jordan Hospital	12110	Private	-1.367257641	38.00320831
+Our Lady of Lourdes Mutomo Hospital	12604	FBO	-1.846577066	38.20881946
+Kauwi Sub County Hospital	12255	Public	-1.372102619	38.0104132
+Ikanga Sub County Hospital	12077	Public	-1.725465187	38.0764434
+Ikutha Sub County Hospital	12080	Public	-2.065044258	38.1767775
+Kyuso Sub County Hospital	12420	Public	-0.6067402454	38.21111526
+Mwingi Sub County Hospital	12626	Public	-0.9417482171	38.06579233
+Kanyangi Sub County Hospital	12184	Public	-1.374984767	37.99524658
+Neema Hospital	12641	Private	-1.367442012	38.00451092
+Tseikuru Sub County Hospital	12805	Public	-0.3301800705	38.192874
+Nuu Sub County Hospital	12681	Public	-1.078296968	38.35657767
+Mwala Level 4	12618	Public	-1.348486163	37.45236651
+Kathiani Level 4	12230	Public	-1.41348892	37.32855843
+Muuma Andu Level 4	12612	Public	-1.657402722	37.28550978
+Athi River Level 4	11936	Public	-1.457586085	36.97853878
+Kangundo Level 4	12177	Public	-1.29861879	37.3458906
+Matuu Level 4	12488	Public	-1.151609332	37.5373274
+Masinga Level 4	12476	Public	-0.9285906067	37.59578784
+Nguluni Level 4	12657	Public	-1.282068067	37.28036144
+Mutuini Level 4	12602	Public	-1.288953486	36.69662623
+Mutyambua Subcounty Hospital (Level IV)	12610	Public	-1.971010929	37.44627547
+Mukuyuni Subcounty Hospital (Level IV)	12565	Public	-1.747181513	37.46211574
+Tawa Subcounty Hospital (Level IV)	12787	Public	-1.54780475	37.46636241
+Matiliku Subcounty Hospital (Level IV)	12485	Public	-1.948975995	37.53588067
+Makindu Subcounty Hospital (Level IV)	12455	Public	-2.283519473	37.82502308
+Mbooni Subcounty Hospital (Level IV)	12508	Public	-1.658702807	37.45444946
+Kisau Subcounty Hospital (Level IV)	12341	Public	-1.598809654	37.4832991
+Sultan Hamud Subcounty Hospital (Level IV)	12777	Public	-2.016219477	37.37806473
+Makueni County Referral Hospital (Level V)	12457	Public	-1.78366001	37.62790407
+Kibwezi Subcounty Hospital (IV)	12291	Public	-2.411767231	37.96769511
+Kambu Subcounty Hospital (IV)	18596	Public	-2.691564687	38.16616156
+Mtito Andei Subcounty Hospital (IV)	12547	Public	-2.690248509	38.17000691
+Kilungu Subcounty Hospital (IV)	12314	Public	-1.78593681	37.36061991
+Kikoko Mission Hospital (IV)	12306	FBO	-1.80609347	37.39654897
+Ralpha Hospital	21676	Private	-1.783703997	37.62226524
+Royal Star Hospital	25386	Private	-1.784054191	37.6247268
+Ponya Hospital	18140	Private	-1.790010223	37.6276542
+Kilome Nursing Home	12313	Private	-2.085401494	37.52145094
+Mulatya Memorial Hospital	19320	Private	-2.278105074	37.82781481
+JM Kariuki County Referral Hospital	10916	Public	-0.2560158689	36.37465058
+Engineer County Hospital	10171	Public	-0.5943907322	36.57508337
+North Kinangop Catholic Hospital	10887	FBO	-0.5548650029	36.5540528
+The Pine Hospital	26053	Private	-0.2348964836	36.37551783
+Pinnacle Flyover Hospital	20629	Public	-0.8769354581	36.57389944
+NYERI COUNTY REFERRAL HOSPITAL	10903	Public	-0.4257211431	36.96352801
+MT.KENYA HOSPITAL	10739	Public	-0.4369273433	36.95805331
+Kerugoya county referral hospital	10520	Public	-0.504656487	37.28136417
+Our lady of roudes mwea mission hospital	10808	FBO	-0.5389262534	37.45542474
+Kimbimbi sub county hospital	10609	Public	-0.6194821764	37.36552811
+Sagana sub county hospital	10994	Public	-0.6694166466	37.2061138
+kianyaga sub county hospital	10565	Public	-0.5041613302	37.35638816
+ACK mt. Kenya hospital	10738	FBO	-0.491685273	37.26507957
+Kerugoya medical centre	10522	Private	-0.4828364435	37.261131
+Mwea medical centre	10806	Private	-0.6837529626	37.35869233
+Murang'a County Referral Hospital	10777	Public	-0.7186036076	37.16115163
+Muriranjas Sub County Hospital	10782	Public	-0.750252797	36.99134268
+Family Heritage  Hospital	22005	Private	-0.7224405357	37.15489901
+Kangema Sub County Hospital	10470	Public	-0.6898972225	36.97157588
+Maragua Sub County Hospital	10686	Public	-0.78932511	37.1275678
+Kenol Hospital	10512	Private	-0.9370630609	37.12676171
+Kirwara Sub County Hospital	10639	Public	-0.9289958976	36.94338738
+Kandara Sub County Hospital	10459	Public	-0.8963171516	37.00210697
+Githumu Hospital	10267	FBO	-0.7835992819	36.87075827
+Gaichanjiru Hospital	10199	FBO	-0.8842561135	37.05184621
+Kigumo Sub County Hospital	10588	Public	-0.8072822939	36.98630931
+Kiria-Ini Mission Hospital	10627	FBO	-0.6020110477	36.95152963
+ACK Emmanuel Mission Hospital	24590	FBO	-1.288484581	36.74785436
+Oasis Mission Hospital	22542	FBO	-1.232338209	36.73786155
+Holy family catholic hospital githunguri	19963	FBO	-1.058466448	36.77393514
+Kalimoni Hospital (Ruiru)	18200	FBO	-1.143742786	36.95677058
+Neema Hospital (Ruiru)	18061	FBO	-1.188830128	36.93359978
+Nazareth Hospital (Ruiru)	17490	FBO	-1.147213197	36.94989366
+Cure (AIC) International Hospital	17397	FBO	-0.9538911079	36.59321626
+Kalimoni Mission Hospital (Juja)	10438	FBO	-1.143560432	36.9566633
+Mary Help of The Sick Hospital	10698	FBO	-1.039377874	37.09142363
+Kikuyu (PCEA) Hospital	10603	FBO	-1.266855106	36.67017981
+Nazareth Hospital	10825	FBO	-1.135556639	36.72610673
+St Mulumba Mission Hospital	10765	FBO	-1.05489951	37.10255837
+Kijabe (AIC) Hospital	10602	FBO	-0.9469739625	36.5945857
+Immaculate Heart Hospital Kereita	10518	FBO	-0.9930059909	36.65513548
+Immaculate Heart of Mary Hospital	10349	FBO	-1.069493922	37.23411857
+Wangige Sub County Hospital	11170	Public	-1.220124482	36.71323417
+Nyathuna Level 4 Hospital	10895	Public	-1.185668095	36.67820483
+Jkuat Hospital	10378	Public	-1.09646225	37.0128871
+Kihara Sub County Hospital	10591	Public	-1.214383082	36.76746604
+Igegania Sub-District Hospital	10338	Public	-1.1746496	36.8304102
+Gatundu District Hospital	10233	Public	-1.015005492	36.90617774
+Lari Hospital	10655	Public	-1.008693146	36.62644858
+Thika Level 5 Hospital	11094	Public	-1.041716156	37.07865837
+Tigoni District Hospital	11104	Public	-1.127692805	36.66874153
+Ruiru Sub-County Hospital	10973	Public	-1.144482752	36.95571484
+Kiambu County Referal Hospital	10539	Public	-1.1751121	36.83057987
+Karuri Level 4 Hospital	10507	Public	-1.175948033	36.75254787
+Lusigetti Sub-county Hospital	10666	Public	-1.273288302	36.60666101
+Kigumo Level 4 hospital	10587	Public	-0.9971080056	36.84543272
+Life Point Hospital	25364	Private	-1.235046736	36.67506933
+Oakwood Hospital	25503	Private	-1.280632385	36.63644716
+Thika Nursing  Hospital	24150	Private	-1.040726681	37.07895036
+St Joel Community Hospital	23966	Private	-1.165037153	36.6671675
+Wendo Hospital	23904	Private	-1.147758486	36.95007583
+St.Marys Mother & Child Hospital	23542	Private	-1.171707219	36.82895583
+Kabete Gardens Hospital	23297	Private	-1.18974774	36.67653951
+Arise Hospital	23031	Private	-1.16820748	36.97442161
+Juja Modern Hospital	22321	Private	-1.099428057	37.02434867
+Caritas community hospital	22054	Private	-1.041155791	37.09250283
+Radiant Group of Hospital	20383	Private	-1.150932688	36.8246643
+St.Teresa Hospital	20378	Private	-1.198781178	36.83617293
+St Marks Hospital	19655	Private	-1.16993339	36.8270635
+St Judes Nursing Home Hospital	19603	Private	-1.017125802	36.91479887
+Mercylight Hospital	18597	Private	-1.172609374	36.83057198
+Central Memorial Hospital	10083	Private	-1.036667859	37.08066837
+Naidu Hospital	10819	Private	-1.029197755	37.06911384
+Kahawa Wendani Hospital	10308	Private	-1.198143707	36.92749577
+Eddiana Hospital	10162	Private	-1.144104318	36.95567975
+Vineyard Hospital	10154	Private	-1.03811362	37.0786138
+Ruiru Hospital	10974	Private	-1.144343406	36.95583654
+Mt Sinai Nursing Home hospital	10740	Private	-1.0322409	37.09805981
+Caritas community hospital	10088	Private	-1.04104852	37.0924921
+Thika Nursing Home hospital	11097	Private	-1.059600656	37.12201286
+Lodwar County Referral Hospital	15049	Public	3.122787824	35.601158
+Lopiding sub county Hospital	15081	Public	4.202637397	34.38369876
+Lokitaung sub county Hospital	15062	Public	4.275939084	35.74616916
+Kapedo sub county Hospital	14699	Public	1.179572359	36.10572923
+Kakuma sub county Hospital	25423	Public	3.711660592	34.86131073
+Lorugum sub county Hospital	20826	Public	2.889281853	35.26759836
+Katilu sub county Hospital	14818	Public	2.274370211	35.4296944
+Lokichar sub county Hospital	21345	Public	2.373014564	35.64217703
+Lokori sub county Hospital	21316	Public	1.978831325	36.10523737
+Elelea sub county Hospital	14436	Public	2.097129748	36.16053434
+Kaikor sub county Hospital	14643	Public	4.528789831	35.42434957
+Kakuma Mission Hospital	14655	FBO	3.711935986	34.8614195
+Ammusait General Hospital	25412	NGO	3.716892173	34.85694111
+Kapenguria county referral hospital	14701	Public	1.237724662	35.12129097
+Sigor sub couunty  hospital	15564	Public	1.49969195	35.46999634
+Chepareria sub county  hospital	14330	Public	1.309350037	35.20705112
+Kacheliba sub county hospital	14634	Public	1.49039746	35.01023223
+Ortum mission hospital	15446	FBO	1.436773339	35.35528638
+Samburu County Referral Hospital	15126	Public	1.098200722	36.69617422
+Kitale County Hospital	14947	public	0.8925244298	34.92368548
+mt elgon hospital	15239	public	1.016349528	35.01024165
+kwanza sub county hospital	15003	public	1.162885472	34.99845623
+endebess sub county hospital	14455	public	1.078598684	34.85655501
+matunda sub county hospital	16364	public	0.8773966682	34.89362693
+cherangany sub county hospital	16743	public	0.9785359629	35.22022004
+kapsara sub county hospital	15377	public	1.120994067	35.16536517
+saboti sub county hospital	14119	public	0.9376744569	34.83738532
+Kapteldon Sub county Hospital	14779	Public	0.5009726693	35.20480064
+Kesses Sub County Hospital	14841	Public	0.4103166049	35.32839391
+Ziwa Sub County Hospital	15788	Public	0.847560593	35.25913517
+Burnt Forest Sub County Hospital	16347	Public	0.2145499875	35.43627636
+Turbo Sub County Hospital	15753	Public	0.6344172068	35.0470761
+Moiben Sub County Hospital	15206	Public	0.8156530434	35.38385793
+Uasin gishu district Hospital	15758	Public	0.5181527552	35.27676711
+Huruma Sub County Hospital	14555	Public	0.5295497402	35.24696193
+Mediheal Hospital	15167	Private	0.5079683974	35.29531384
+Moi Teaching & Referral Hospital		Public	0.511856011	35.280477
+Eldoret Hospital	14435	Private	0.5167098972	35.27943581
+Moi Barracks-Eldoret		Military	0.6501592726	35.16492917
+Iten County Referral Hospital	14586	Public	0.6767037489	35.50712511
+Kapsabet county referral hospital	14749	Public	0.2026260451	35.10307151
+Nandi Hills County hospital	14179	Public	0.1037948102	35.18411353
+Kaptumo sub county hospital	14792	Public	0.1148021745	35.09391944
+Meteitei sub county hospital	15181	Public	-0.06839269635	35.33560888
+Kabiyet sub county hospital	14623	Public	0.4053967854	35.08475768
+Chepterwai sub county hospital	14369	Public	0.3261516387	35.17061068
+Mosoriot sub county hospital	15229	Public	0.3218808298	35.17280857
+Kabarnet Bliss Medical Center	23828	Private	0.4901606419	35.74340727
+Mogotio  Sub-County Hospital Baringo	20005	Public	-0.02057268095	35.95610824
+Marigat Sub District Hospital	15138	Public	0.4695901129	35.98328503
+Mercy Hospital	15174	FBO	0.05461717835	35.7245439
+Baringo County Refferal Hospital	14607	Public	0.4854180549	35.74210476
+Chemolingot District Hospital	14321	Public	0.9880466534	35.9723537
+Eldama Ravine District Hospital	14432	Public	0.04652422409	35.72463826
+Kabartonjo Referral Hospital	14609	Public	0.6333122659	35.79658778
+Tangulbei Sub county Hospital	15707	Public	0.8066091882	36.28146827
+Nanyuki Teaching and Referral Hospital	26822	Public	0.02191340368	37.07163553
+Nyahururu County Referral Hospital	10890	Public	0.03867744781	36.36215324
+Bahati District Hospital	14224	Public	-0.1703311529	36.12340662
+Optimum Current Health Care Hospital	26526	Private	-0.2843391658	36.06667248
+Mediheal Hospital (Nakuru) Annex	24929	Private	-0.2857229841	36.10787486
+Soin sub county hospital	15200	Public	-0.170421012	35.85521688
+St. Joseph RiftValley Hospital	25155	Private	-0.4111445427	36.25119645
+Gilgil Military Regional Hospital	14511	Armed Forces	-0.4921447584	36.3173744
+Elburgon Sub-District Hospital	14431	Public	-0.3057717548	35.80749775
+Mirugi Kariuki Sub County Hospital	15188	Public	-0.2911596832	36.12735904
+Bondeni Sub County Hospital	14265	Public	-0.2941138824	36.0797527
+Mediheal Hospital Nakuru	18266	Private	-0.2856700322	36.1079044
+Baraka Maternity Home	14230	Private	-0.2891922989	36.06916908
+Naivasha District Hospital	15280	Public	-0.7183908076	36.43848646
+Kabazi Sub County Hospital	14611	Public	-0.07619446754	36.16785888
+Nairobi Women hospital - Nakuru CBD	24173	Private	-0.284411184	36.0695224
+Subukia Sub County Hospital	15678	Public	0.003004761377	36.23053811
+Langa Langa Hospital	15009	Public	-0.3026878408	36.0704085
+Polyclinic Hospital	15466	Private	-0.7170082035	36.43462033
+Sunrise Evans Hospital	15686	Private	-0.2844518831	36.07104908
+Nakuru Provincial General Hospital	15288	Public	-0.2779538979	36.07029986
+Gilgil Sub County Hospital	14510	Public	-0.4920911162	36.31727784
+Olenguruone Sub-District Hospital	15398	Public	-0.5910247756	35.6857811
+Keringet  Sub County Hospital	14836	Public	-0.4260118284	35.6901698
+Nakuru Nursing Home	15287	Private	-0.289655611	36.07938888
+Molo District Hospital	15212	Public	-0.2486855975	35.73241381
+Njoro Subcounty Hospital	15358	Public	-0.3302546412	35.94331087
+Annex Hospital (Nakuru)	14207	Public	-0.2821785821	36.08133861
+Nakuru War Memorial Hospital	15289	Private	-0.2817923487	36.08084508
+The Karen Hospital Limited(Naivasha)	23568	Private	-0.7164672269	36.43551808
+St Mary's Hospital	15654	FBO	-0.5429130594	36.33979513
+Egerton University	14426	Public	-0.3713708995	35.94100581
+Nairobi Women's Hospital	20061	Private	-0.2816613525	36.0988081
+Valley Hospital	15764	Private	-0.2881309101	36.06351395
+Alexandria Cancer Centre & Palliative care Hospital	22886	Private	-0.2751861849	36.07614211
+Mercy Mission Hospital - Annex Nakuru	22859	FBO	-0.2902524258	36.07220095
+Narok county Referal Hospital	15311	Public	-1.084234749	35.86727016
+Lolgorian Sub District Hospital	15068	Public	-1.23394983	34.79966781
+Baraka Hospital	17757	NGO	-1.087360442	35.87710711
+The Shepherd Hospital Limited	26997	NGO	-1.094647548	35.86200198
+Narok Cottage Hospital	20548	Private	-1.092376915	35.87511446
+Medicatia Hospital	18784	Private	-1.06953056	35.86743548
+Ololulunga District Hospital	15423	Public	-1.08426693	35.86723797
+Transmara West Sub County Hospital	15739	Public	-1.004403191	34.8792566
+St Joseph Hospital	15647	FBO	-1.006053456	34.87893751
+Kajiado County Referral Hospital	14652	Public	-1.857385943	36.77196507
+Loitokitok Sub-County Hospital	15051	Public	-2.924264034	37.50477851
+Kitengela Sub-County Hospital	14950	Public	-1.470148895	36.95419953
+Ngong Sub-County Hospital	15351	Public	-1.364861364	36.65419132
+Ongata Rongai Sub-County Hospital	15446	Public	-1.386107565	36.74717354
+Kapkatet Sub County Hospital	14706	Public	-0.6300163767	35.19332145
+AIC Litein Hospital	14178	FBO	-0.5882813907	35.18889582
+St. Gabriel Hospital	22153	Private	-0.587673132	35.19327323
+Roret Sub County Hospital	15498	Public	-0.4803330012	35.09934724
+Sigowet Sub County Hospiotal	15568	Public	-0.3955711139	35.04889687
+Kericho County Referral Hospital	14831	Public	-0.3715827706	35.2799381
+Kericho Nursing Home	14834	Private	-0.3701104992	35.27997452
+Siloam Hospital	15571	Private	-0.3736975278	35.273708
+St. Leonards Hospital	15649	Private	-0.3610993418	35.27369317
+UTK Central Hospital	15761	Private	-0.3630600421	35.29895287
+Green View Hospital	14538	Private	-0.3801949993	35.27567803
+Londiani Hospital	15074	Public	-0.1631622039	35.59307442
+Kipkelion Sub County Hospital	14897	Public	-0.2075323396	35.44808196
+Kipchimchim Hospital	14890	FBO		
+Longisa County referral Hospital	15077	Public	-0.8603559665	35.39047966
+Kakamega General and Referral Hospital	15915	Public	0.2745643166	34.75987395
+Likuyani Sub County Hospital	15961	Public	0.6670104211	35.10904108
+Lumakanda County Hospital	15969	Public	0.6353196575	34.97624486
+Malava County Hospital	15996	Public	0.4485799268	34.85388318
+Shinyalu Model Health Centre	17596	Public	0.2090749243	34.77457732
+Iguhu County Hospital	15899	Public	0.1743132252	34.7470222
+Butere County Hospital	15836	Public	0.2089758831	34.49296273
+Matungu Sub County Hospital	16037	Public	0.3867801999	34.46285882
+Mumias West Sub County Hospital	25166	Public	0.4199324331	34.44066105
+Shianda Health Centre	20194	Public	0.3358531013	34.60524398
+Hamisi sub county hospital	15894	public	0.07510482241	34.787888
+sabatia sub county hosp	16098	public	0.1210882626	34.78732658
+Emuhaya subcounty hosp	15876	public	0.03623666683	34.62652986
+kaimosi mission	15913	FBO	0.1272974944	34.84611151
+sabatia eye hospital	16097	FBO	-0.09064425681	34.76308395
+Bungoma county referral hospital	15828	Public	0.573246809	34.56016309
+Bumula subcounty hospital	15825	Public	0.5508980664	34.45300024
+Kimilili subcounty hospital	15950	Public	0.7855260861	34.70419493
+Chwele subcounty hospital	15860	Public	0.7359586951	34.57804618
+Mt. Elgon subcounty hospital	16025	Public	1.163154769	34.54201394
+Naitiri sucounty hospital	16061	Public	0.7567438177	34.89068551
+Cheptais subcounty hospital	15855	Public	0.8025755333	34.46214044
+Sirisia subcounty hospital	16130	Public	0.7531161484	34.50818978
+Bokoli subcounty hospital	15808	Public	0.7109488597	34.66139824
+Webuye county hospital	16161	Public	0.6130823536	34.7646029
+Lugulu misssion hospital	15965	FBO	0.6628773082	34.75338114
+St damiano mission hospital	16138	FBO	0.5505547381	34.55783171
+Elgon view hospital	15871	Private	0.5727678203	34.5632387
+Bungoma west hospital	20323	Private	0.593037167	34.5518315
+Lifecare hospital	18852	Private	0.5653817243	34.56487657
+Fountain health care	22652	Private	0.5476664029	35.27965527
+Korry family hospital	23738	Private	0.5810476633	34.55815259
+Khalaba medical centre	17881	Private	0.4340686742	34.55040042
+Dreamland medical cenre	15864	FBO	0.8082594267	34.69536127
+Busia County Referral Hospital	15834	Public	0.4601398822	34.10460225
+Port Victoria Sub County Hospital	16091	Public	0.1060272277	33.98994664
+Khunyangu Sub County Hospital	15939	Public	0.337735129	34.25800738
+Nambale Sub County Hospital	16066	Public	0.4558366401	34.2388809
+Sio Port Sub County Hospital	16128	Public	0.2255724899	34.02155383
+Holly Family Nangina Mission Hospital	16073	FBO	0.277500174	34.10519957
+Teso North Sub County Hospital	16150	Public	0.619985097	34.34540031
+Alupe Sub County Hospital	15795	Public	0.4599421491	34.1065382
+Ambira Sub-County Hospital	13476	Public	0.1690325772	34.24196004
+Bondo County Referral Hospital	13507	Public	-0.09388537939	34.27473723
+Got Agulu Sub-District Hospital	13588	Public	-0.04082335213	34.03370193
+Rwambwa Sub-county Hospital	14063	Public	0.06989876479	34.09793323
+Siaya County Referral Hospital	14080	Public	0.06372146123	34.28702715
+Madiany Sub County Hospital	13747	Public	-0.3297678917	34.31807504
+Sigomere Sub County Hospital	14085	Public	0.2016004766	34.36170528
+Ukwala SCH	14156	Public	0.1954682849	34.18507806
+Matibabu Ukwala Clinic (Hospital )	17529	NGO	0.1982145807	34.18971269
+Sagam Community Hospital	14064	NGO	0.05622091529	34.54234547
+Sega Cottage Hospital	14071	Private	0.2670095542	34.22641572
+Sega Mission Hospital	14073	FBO	0.2573700371	34.22463597
+Siaya Medical Centre	14081	Private	0.06789207113	34.28631049
+St Elizabeth Lwak Mission Health Centre	13739	FBO	-0.1298128503	34.35003456
+Bama Hospital	13493	Private	0.05667977658	34.29444253
+Dolphil Nursing & Maternity Home	13535	FBO	0.02327367669	34.51958254
+Inuka Hospital & Maternity Home	13618	Private	0.1496697591	34.39021248
+Migosi Sub County Hospital	13807	GOK	-0.07985278108	34.7819747
+Kisumu County Referral Hospital	13704	GOK	-0.1014283812	34.75552385
+Jaramogi Oginga Odinga Teaching and Referral	13939	GOK	-0.08880700994	34.77173755
+Lumumba Health Centre	13738	GOK	-0.09926963707	34.76585292
+Gita Sub-county Hospital	13647	GOK	-0.02733875027	34.79052138
+Nyahera Sub-County Hospital	13880	GOK	-0.03455909629	34.71291003
+Chulaimbo County Hospital	13528	GOK	-0.03160863256	34.68913148
+Ober Kamoth Sub county Hospital	13954	GOK	-0.1146950847	34.60957343
+Ojola Sub County Hospital	13971	GOK	-0.115074666	34.63034793
+Kombewa County Hospital	13714	GOK	-0.1017304854	34.51992439
+Miranga Sub District Hospital	13810	GOK	-0.07647125402	34.54424979
+Manyuanda Health Centre	13770	GOK	-0.2548626539	34.27782651
+Muhoroni County Hospital	13831	GOK	-0.1512356819	35.20548412
+Nyang'oma Sub County Hospital	13928	GOK	-0.1088037927	35.03124524
+Masogo Sub County Hospital	13785	GOK	-0.09385898036	34.99809298
+Nyakach County Hospital	13921	GOK	-0.3128499976	34.93693374
+Katito Sub County Hospital	13657	GOK	-0.08864607759	34.77184484
+Sondu Sub County Hospital	14096	GOK	-0.3891523117	35.01411146
+Nyamarimba Sub County Hospital	13899	GOK	-0.37014117	34.90481667
+Ahero County Hospital	13468	GOK	-0.1731345787	34.92363035
+Nyangande Sub-County Hospital	13923	GOK	-0.2066408821	34.84789781
+Rabuor Sub-county Hospital	14020	GOK	-0.169912022	34.92253718
+Avenue Hospital Kisumu	20123	Private	-0.09067059608	34.76791979
+Aga Khan Hospital (Kisumu)	13465	Private	-0.09806504217	34.75604687
+Nightingale Milimani Hospital	24317	Private	-0.1076944795	34.75571127
+St. Elizabeth chiga	14106	FBO	-0.08918635099	34.77428754
+Maseno Mission	13781	FBO	0.004625433851	34.61284587
+St. Jairus	21766	Private	-0.07552196575	34.72405761
+Portflorence	14017	Private	-0.10405621	34.75298252
+Koru Mission	13719	FBO	-0.1858606379	35.27398828
+Nyabondo Mission	13864	FBO	-0.3811790277	34.9787337
+Awasi Mission  Hospital	13491	Private	-0.1590366013	35.0730269
+Ahero medical clinic	18291	Private	-0.1740560484	34.92028405
+St.Lawrence Hospital	21162	Private	-0.4898332681	34.42496373
+Mbita Sub-County Hospital	13798	Public	-0.4228104284	34.20813111
+Homa Bay County Teaching and Referral Hospit	l13608	Public	-0.5327826336	34.46151179
+Kabondo Sub-County  Hospital	13638	Public	-0.446806089	34.8910449
+Nyandiwa Level IV Hospital	13920	Public	-0.7256063949	34.05450966
+Nyangiela Sub District	13926	Public	-0.5372729117	34.70825024
+Magunga Level IV Hospital	13753	Public	-0.6890647699	34.15190046
+Ogongo Sub-County Hospital	13967	Public	-0.5734513473	34.37175178
+Asumbi Mission Hospital	13488	FBO	-0.6103603871	34.50229656
+Marindi Sub County Referral Hospital	13777	Public	-0.529970483	34.46370415
+Suba Sub-Couty Hospital	14130	Public	-0.6068633448	34.33902527
+Sori Lakeside Hospital (Sindo)	23677	Private	-0.541523219	34.16575361
+Kendu Sub-District Hospital	13668	Public	-0.3680818268	34.64962589
+Kendu Adventist Hospital	13667	FBO	-0.401525714	34.66479232
+Ndhiwa Sub-District Hospital	13841	Public	-0.7282344401	34.36613
+Rachuonyo District Hospital	14022	Public	-0.5054286313	34.7337734
+Kisegi Sub-District Hospital	13701	Public	-0.6327734687	34.04579999
+Matata Nursing Hospital	13789	Public	-0.4102953013	34.73106869
+Rangwe Sub-District Hospital	14036	Public	-0.6005101279	34.58121534
+Kandiege Sub-District Hospital	13653	Public	-0.4290903002	34.55279153
+Migori county referral hospital	13805	Public	-1.062688465	34.47755743
+Uriri subcounty hospital	14161	Public	-0.9516522616	34.51324939
+Oyani subcounty hospital	14009	Public	-1.037628376	34.58907659
+Othoro subcounty hospital	14003	Public	-0.8905943138	34.38704339
+Awendo subcounty hospital	13492	Public	-0.9014577392	34.53348558
+Rongo subcounty hospital	14058	Public	-0.7507405699	34.59855836
+Nyamaraga sub county hospital	13897	Public	-1.115800736	34.34659354
+Macalder subcounty hospital	13745	Public	-0.9545540438	34.2857712
+Karungu subcounty hospital	13656	Public	-0.8428777859	34.15754964
+Muhuru sub county hospital	13833	Public	-0.9985461647	34.09606947
+Isebania subcounty hospital	13625	Public	-1.235748083	34.48158861
+Kehancha subcounty hospital	13726	Public	-1.179749182	34.62838624
+Kegonga subcounty hospital	13663	Public	-1.258538179	34.65274926
+Ntimaru sub county hospital	13858	Public	-1.333072477	34.68772437
+St. Josephs mission	14110	FBO	-1.008435083	34.41278725
+St. Camillus sori	14103	FBO	-0.8219762852	34.13430408
+Sori lake side hospital	23674	Private	-0.8410491735	34.15492145
+Rapcom hospital	14037	Private	-0.9079595121	34.52936947
+Akidiva memorial hospital	14101	Private	-1.095406411	34.45461093
+Samjomen hospital	21427	Private	-1.169761553	34.44191203
+Ojele memorial hospital	13970	Private	-1.097506635	34.46087212
+Lwala Community Hospital	13740	NGO	-0.6778963816	34.6088219
+Neocare memorial hospital	23755	Private	-1.006481083	34.51964691
+Wima Hospital	24235	Private	-1.262931311	34.65803068
+Enockhan Hospital	24793	Private	-1.11332667	34.62070476
+Lenmek Hospital Rongo Annex	22320	Private	-0.6722888847	34.77115364
+St Akidiva Mindira Hospital - Mabera	20020	Private	-1.095352777	34.45428907
+Nyamache Sub County Refferal Hospital	13891	GOK	-0.8521673198	34.82697004
+Nyacheki Sub Couny Hospital	13867	GOK	-0.8932608139	34.87807578
+Kenyenya Sub Count Referral Hospital	13673	GOK	-0.8872651604	34.72939927
+Gucha Sub County Referral Hospital	13594	GOK	-0.6742330697	34.77891415
+Misesi Sub County Hospital	13814	GOK	-0.6772481748	34.77958154
+Iyabe Sub County Referral Hospital	13631	GOK	-0.677022885	34.77953737
+Nyamagundo Sub County Hospital	13892	GOK	-0.6391729488	34.70228408
+Marble Hospital	22839	Private	-0.604730563	34.74547277
+Marani Sub County Referral Hospital	13772	GOK	-0.5742218482	34.80150982
+Getembe Kenyara Hospital	23594	Private	-0.6739463343	34.7695547
+Kisii Teaching and Referral Hospital	13703	GOK	-0.6707493623	34.77138933
+Iranda Sub County Referral Hospital	13620	GOK	-0.6770014288	34.77962446
+Mediforte Hospital LTD	25454	Private	-0.6675279779	34.76967464
+Care and Cure Hospital	24483	Private	-0.6771838063	34.779603
+The Nairobi Family Hospital	23961	Private	-0.6655041778	34.77468041
+Oasis Specialist Hospital	20619	Private	-0.6711168061	34.77054291
+Nyangena Hospital	13925	Private	-0.6624550653	34.7490132
+Ram Hospital	14028	Private	-0.6782034467	34.77199746
+Getembe Hospital	13567	Private	-0.6739118062	34.76955927
+Bosongo Hospital	13515	Private	-0.6771623501	34.77959227
+Hema Hospital	13603	Private	-0.6748040219	34.77013527
+Keumbu Sub County Referral Hospital	13680	GOK	-0.7339576199	34.84763068
+Ibeno Sub County Hospital	13612	GOK	-0.7770283538	34.85212146
+Christamarrianne Hospital	13527	FBO	-0.681872003	34.77242002
+Nyanchwa Adventist Hospital	13918	FBO	-0.6803960906	34.7665572
+Gesusu Sub County Refferal Hospital	13564	GOK	-0.8699284026	34.90926568
+Masimba Sub County Hospital	13783	GOK	-0.8608530679	34.93829058
+Ibacho Sub County Hospital	13611	GOK	-0.8192611169	34.87072568
+Nyamasibi Sub County Hospital	13903	GOK	-0.8166657942	34.94517126
+St Cathrine Ichuni Mission Hospital	20914	FBO	-0.7810339818	34.9502374
+Nduru Sub County Referral Hospital	13847	GOK	-0.8094355829	34.63190558
+Etago Sub County Hospital	13550	GOK	-0.8998612316	34.66241441
+Tabaka Mission Hospital	14139	FBO	-0.6728434466	34.77077366
+Manga District Hospital	13766	Public	-0.6126263609	34.83543636
+Holsoms Nursing Home	24431	Private	-0.6481722462	34.99474027
+Nyangena Sub District Hospital (Manga)	13924	Public	-0.6602283495	34.74047854
+Nyamira County Refferal Hospital	13912	Public	-0.557636003	34.92920563
+Oasis Maternity and Nursing Home	23702	Private	-0.5889915321	34.93447162
+Kinara Hospital	13913	Private	-0.5668117599	34.93408048
+Nyamusi Sub-District Hospital	13916	Public	-0.4785176158	34.98254291
+Ekerenyo Sub-District Hospital	13540	Public	-0.5304401172	34.9878636
+Esani Sub-District Hospital	13548	Public	-0.6764819905	34.95295364
+Gesima Sub-County Hospital	13559	Public	-0.6827726784	34.94238938
+Masaba District Hospital	13678	Public	-0.7807196262	34.94826381
+Kijauri Sub County Hospital	13692	Public	-0.7624884812	35.01647658
+Nyansiongo Nursing Home	13937	FBO	-0.7592180368	35.01396802
+Kenyatta University Teaching Refferal and Research	24979	Public	-1.177490574	36.91542227
+Mama Lucy Kibaki Hospital - Embakasi	17411	Public	-1.273655035	36.89896914
+Mutuini Sub-District Hospital	13105	Public	-1.287979886	36.69738017
+Mathari Hospital	13076	Public	-1.259500153	36.84690798
+Kenyatta National Hospital	13023	Public	-1.301183012	36.80701136
+Moi Air Base Hospital	13095	Public	-1.265873206	36.85948218
+Pumwani Maternity Hospital	13156	Public	-1.280535485	36.8454773
+National Spinal Injury Hospital	13194	Public	-1.287779059	36.7941408
+Memorial Hospital	13087	Public	-1.311136846	36.80450689
+Mbagathi District Hospital	13080	Public	-1.308905831	36.80342328
+Nairobi Adventist Hospital	24563	FBO	-1.224188709	36.78334533
+Better Living Hospital	23385	FBO	-1.289136364	36.8062593
+Ruaraka Uhai Neema Hospital	18485	FBO	-1.226752198	36.88517135
+St Francis Community Hospital (Kasarani)	17943	FBO	-1.225207688	36.91620424
+The Mater Misericordiae Hospital	13074	FBO	-1.307323447	36.83471803
+Jamaa Mission Hospital	12984	FBO	-1.281718621	36.87314894
+Jumuia Hospital Huruma	12972	FBO	-1.260488032	36.87415127
+Coptic Hospital (Ngong Road)	12905	FBO	-1.297730086	36.79769078
+St Mary's Mission Hospital	13218	FBO	-1.322161709	36.77421444
+Mediheal Hospital Parklands	26331	Private	-1.262131379	36.8226364
+Garden Specialist Hospital	25941	Private	-1.288864081	36.79810927
+Health Gate Hospital	25644	Private	-1.279595659	36.84629624
+RFH Specialist Hospital	24828	Private	-1.274394537	37.00485151
+Radiant Group Of Hospitals Kasarani Sportsvie	24488	Private	-1.222121928	36.91238898
+Mediheal Hospital Eastleigh	23985	Private	-1.286419712	36.85210321
+Drive-In Nursing Hospital-Ruaraka	23855	Private	-1.226426108	36.88521731
+The Nairobi Hospital Warwick Outpatient Center	23559	Private	-1.295690355	36.8033705
+Bristol Park Hospital Utawala	23399	Private	-1.27940888	36.96880334
+Radiant Hospital Kasarani Annex	23068	Private	-1.264369293	36.84396307
+South C Hospital Limited(South C)	22844	Private	-1.316445568	36.8288376
+Lions Sightfirst Eye Hospital	21147	Private	-1.255128784	36.75021984
+Melchizedek Hospital Karen	20072	Private	-1.294304355	36.75534018
+The Mater Hospital (Westlands)	19543	Private	-1.260735854	36.80435863
+Mariakani Cottage Hospital Utawala	19432	Private	-1.286542412	36.97278831
+Juja Road Hospital (Nairobi)	19318	Private	-1.267711506	36.83787734
+Lad Nan Hospital	19316	Private	-1.269653439	36.84087744
+St Louis Community Hospital	19280	Private	-1.225186235	36.91619351
+Bristal Park Hospital	18271	Private	-1.313094191	36.89242146
+South B Hospital Ltd	18005	Private	-1.312063161	36.83771751
+St Mac's Hospital	17391	Private	-1.315307461	36.80148353
+Nairobi Womens Hospital Adams	16795	Private	-1.298872464	36.781836
+Nairobi Hospital	13110	Private	-1.295217338	36.80504147
+Mp Shah Hospital (Westlands)	13098	Private	-1.263322006	36.81210793
+Meridian Equator Hospital	13109	Private	-1.307674087	36.82437444
+Mariakani Cottage Hospital Ltd	13064	Private	-1.303920003	36.83730206
+St Francis Com Hospital	13202	Private	-1.22502534	36.91616132
+Umoja Hospital	13241	Private	-1.280426033	36.8889335
+Mother & Child Hospital	13096	Private	-1.270344601	36.84684937
+Dorkcare Nursing Home	12921	Private	-1.274741537	36.85005844
+Langata Hospital	13042	Private	-1.327509902	36.78922562
+Kayole Hospital	13014	Private	-1.269953558	36.91810637
+The Karen Hospital	13004	Private	-1.335926562	36.72592935
+Gertrudes Childrens Hospital	12950	Private	-1.255789125	36.83173731
+Guru Nanak Hospital	12965	Private	-1.269541411	36.83246093
+Huruma Maternity Hospital	12975	Private	-1.260477305	36.87411908
+Compassionate Hospital	12902	Private	-1.21598805	36.88817545
+Avenue Hospital	12874	Private	-1.264590453	36.81790887
+Aga Khan Hospital	12867	Private	-1.26103851	36.82416581
+Nairobi Womens Hospital (Hurlingham)	13117	Private	-1.29358256	36.7960752
+Melchezedek Hospital	13086	Private	-1.342658007	36.66611434
+Radiant Pangani Hospital	13158	Private	-1.267424885	36.84354683
+Nairobi West Hospital	13115	Private	-1.273054437	36.81829542
+Metropolitan Hospital Nairobi	13090	Private	-1.287376337	36.87519778
+Nairobi South Hospital	13112	Private	-1.313721839	36.82846061
